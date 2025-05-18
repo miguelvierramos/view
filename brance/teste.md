@@ -1,7 +1,7 @@
 
 <h1>Git e GitHub</h1>
 
-<p><strong>Git</strong> é um sistema de controle de versão distribuído. Ele permite acompanhar mudanças no código, voltar no tempo, trabalhar em equipe e evitar conflitos durante o desenvolvimento.</p>
+<p><strong>Git</strong> é um sistema de <strong>controle de versão </strong>distribuído. Ele permite acompanhar mudanças no código, voltar no tempo, trabalhar em equipe e evitar conflitos durante o desenvolvimento.</p>
 
 <h2>Principais comandos do Git</h2>
 
@@ -15,7 +15,7 @@ git pull          # Baixa alterações do GitHub
 
 <h2>O que é GitHub?</h2>
 
-<p><strong>GitHub</strong> é uma plataforma de hospedagem de código que usa o Git. Ele permite que desenvolvedores publiquem seus projetos na internet, colaborem com outras pessoas e acompanhem versões do código.</p>
+<p><strong>GitHub</strong> é uma plataforma de <strong>hospedagem de código que usa o Git</strong>. Ele permite que desenvolvedores publiquem seus projetos na internet, colaborem com outras pessoas e acompanhem versões do código.</p>
 
 <h2>Diferenças entre Git e GitHub</h2>
 
